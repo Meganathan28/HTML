@@ -1,0 +1,25 @@
+html{
+    background-color: rgb(58, 56, 55);
+}
+
+body {
+    width: 600px;
+    margin: 10px auto;
+    background-color: #ff9500;
+    padding: 0 20px 20px 20px;
+    border: 5px solid black;
+}
+
+img {
+    display: block;
+    margin: 0 auto;
+    max-width: 100%;
+}
+
+h3 {
+    margin: 0;
+    padding: 20px 0;
+    color: #00539f;
+    text-shadow: 1px 1px 1px black;
+}
+  
